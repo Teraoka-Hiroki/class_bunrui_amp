@@ -1,0 +1,7 @@
+streamlit
+amplify
+matplotlib
+numpy
+matplotlib
+math
+base64
