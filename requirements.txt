@@ -3,4 +3,4 @@ amplify
 matplotlib
 numpy
 matplotlib
-base64
+base64==23.3.2
